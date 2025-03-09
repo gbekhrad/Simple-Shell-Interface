@@ -2,13 +2,13 @@
 Gabriella (Gabi) Bekhrad
 gabimbek@gmail.com
 
-### Overview/Source Files:
+## Overview/Source Files:
 - sshell.c: C program that simulates a shell interface, allowing users to input commands and run them on the terminal.  
 
-## To compile:
+### To compile:
 gcc -o sshell sshell.c
 
-## To run:
+### To run:
 ./sshell
 
 ## Sample input and output:
