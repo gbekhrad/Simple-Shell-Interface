@@ -1,5 +1,5 @@
 # Simple Shell Interface 
-Gabriella (Gabi) Bekhrad
+Gabriella (Gabi) Bekhrad  
 gabimbek@gmail.com
 
 ### Overview/Source Files:
