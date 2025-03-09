@@ -12,7 +12,7 @@ gcc -o sshell sshell.c
 ./sshell
 
 ### Sample input and output:
-(Note: text wrapped like *this* is not input or output. It describes what is happening.)
+(Note: text in italics below is not input or output. It describes what is happening.)
 
 1. 
 osh>pwd
