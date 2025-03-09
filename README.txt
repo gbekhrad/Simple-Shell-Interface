@@ -1,19 +1,17 @@
-Name: Gabriella (Gabi) Bekhrad
-Email: gbekhrad@chapman.edu
-ID: 2417841
+### Simple Shell Interface 
+Gabriella (Gabi) Bekhrad
+gabimbek@gmail.com
 
-Title of Assignment: Programming Assignment 2 - Simple Shell Interface
-
-Overview/Source Files:
+## Overview/Source Files:
 - sshell.c: C program that simulates a shell interface, allowing users to input commands and run them on the terminal.  
 
-To compile:
+## To compile:
 gcc -o sshell sshell.c
 
-To run:
+## To run:
 ./sshell
 
-Sample input and output:
+## Sample input and output:
 (Note: text wrapped like *this* is not input or output. It describes what is happening.)
 
 1. 
@@ -48,7 +46,7 @@ osh>sleep 5 &
 osh>exit
 *the program exits the shell and terminates.*
 
-Sources:
+## Sources:
 https://www.tutorialspoint.com/c_standard_library/c_function_fgets.htm 
 https://www.geeksforgeeks.org/strcmp-in-c/
 https://www.geeksforgeeks.org/string-tokenization-in-c/
